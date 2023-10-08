@@ -1,0 +1,19 @@
+$color : red;
+
+body {
+  background: $color;
+
+  h1 {
+    font-weight: lighter;
+  }
+}
+
+a {
+  transition: all 0.5s ease-in-out;
+}
+
+ul {
+  li {
+    display: inline-block;
+  }
+}
